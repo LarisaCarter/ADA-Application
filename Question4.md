@@ -6,12 +6,14 @@ I graduated from college in 2014 in the middle of the Recession. I felt pressed 
 
 >When did I realize this was a mistake, you ask? If I'm being real with myself, I realized teaching wasn't for me before I even applied to the program. But I was stubborn and determined and teaching seemed like the best route to _helping others_, my one and only career ambition as a senior at the University of Montana. 
 
+----------------------------------------------------------------------------------------------------------------------------------------
 I have never been one to ask others for advice. I generally make a decision and stick to it, come hell or high water. As I was applying for Teach Kentucky, I actively avoided any advice or questions about my next steps after college. I felt so much pressure to have a career straight out of college. I didn't want to hear people's criticisms of my plan to relocate to Kentucky. Nor did I want to hear that I wasn't cut out to be a teacher. 
 
 Turns out, other people are pretty wise if you'll just hear them out. I wound up a credentialed Middle School Science Teacher when I am obviously much better suited to work in a completely different capacity. 
 
 > From this experience, I learned to accept myself and my talents for what they are. I have learned not to try to fit into a role that does not allow me to be myself. 
 
+----------------------------------------------------------------------------------------------------------------------------------------
 That is not to say that there aren't some parts of teaching that I truly enjoy. I challenged myself to make the best of the situation and to continue to grow as a scientist, a thinker, and an educator. After this year, my school is being restructured and relocated and all teachers are being overstaffed and transferred. I'm glad I continued to challenge myself to continue to learn new things during this time because I feel that I have developed the interest, confidence, and skills necessary to be a competitive applicant for the Ada Developers Academy. 
 
 >**10+1 Applicable skills I learned as a Middle School Teacher**
