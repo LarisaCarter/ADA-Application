@@ -6,3 +6,20 @@ I graduated from college in 2014 in the middle of the Recession. I felt pressed 
 
 >When did I realize this was a mistake, you ask? If I'm being real with myself, I realized teaching wasn't for me before I even applied to the program. But I was stubborn and determined and teaching seemed like the best route to _helping others_, my one and only career ambition as a senior at the University of Montana. 
 
+I have never been one to ask others for advice. I generally make a decision and stick to it, come hell or high water. As I was applying for Teach Kentucky, I actively avoided any advice or questions about my next steps after college. I felt so much pressure to have a career straight out of college. I didn't want to hear people's criticisms of my plan to relocate to Kentucky. Nor did I want to hear that I wasn't cut out to be a teacher. 
+
+Turns out, other people are pretty smart if you'll just listen to them. I wound up a credentialed Middle School Science Teacher when I am obviously much better suited to work in a completely different capacity. 
+
+> From this experience, I learned to accept myself and my talents for what they are. I have learned not to try to fit into a role that does not allow me to be myself. 
+
+That is not to say that there aren't some parts of teaching that I truly enjoy. 
+
+
+
+
+
+
+
+
+
+I am fortunate to have encountered another opportunity to 
