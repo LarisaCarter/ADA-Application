@@ -14,21 +14,21 @@ Turns out, other people are pretty smart if you'll just listen to them. I wound 
 
 That is not to say that there aren't some parts of teaching that I truly enjoy. I challenged myself to make the best of the situation and to continue to grow as a scientist, a thinker, and an educator. After this year, my school is being restructured and relocated and all teachers are being overstaffed and transferred. I'm glad I continued to challenge myself to continue to learn new things during this time because I feel that I have developed the interest, confidence, and skills necessary to be a competitive applicant for the Ada Developers Academy. 
 
-**Applicable skills I learned as a Middle School Teacher**
+**10+1: Applicable skills I learned as a Middle School Teacher**
 
-* Planning & delivering instruction  
-* Supervision of student projects and overall learning   
-* Evaluation of learning  
+1. Planning & delivering instruction  
+2. Supervision of student projects and overall learning   
+3. Evaluation of learning  
 
-* Organization                     
-* Communication with students and stakeholders
-* Relationship-building 
+4. Organization                     
+5. Communication with students and stakeholders
+6. Relationship-building 
 
-* Systems Design  
-* Rituals & Routines  
-* Cross-curricular collaboration  
-* Recordkeeping  
-* Data Management & Security  
+7. Systems Design  
+8. Rituals & Routines  
+9. Cross-curricular collaboration  
+10. Recordkeeping  
+11. Data Management & Security  
 
   
  
