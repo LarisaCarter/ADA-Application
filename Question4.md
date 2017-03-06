@@ -28,10 +28,7 @@ That is not to say that there aren't some parts of teaching that I truly enjoy. 
 10. Recordkeeping
 11. Data Management & Security
 
-  
- 
-
 I am fortunate to have encountered another opportunity to be considered as a candidate for a prestigious career preparation program. I am bursting at the seams with excitement for the chance to participate in a collaborative, STEAM environment. I've told anyone who will listen about Ada's Program. Those who know me well and who know my talents and abilities are saying **GO FOR IT!!!** My fiancee and I have saved up enough money to make relocating to Seattle happen and he has found an entry-level job in education in the Seattle area. He is going to make a fabulous Math Teacher one day.  
 
 
->My three years as a teacher have shaped me into a braver, bolder, more confident young woman who understands herself. I'm no longer embarrassed to take up space and to have a voice and an opinion. I have learned to keep my personal development at the forefront of my mind. I can't allow myself to get lazy and accept the easy option. I have learned to be real with myself. I have given myself permission to pursue a career I am passionate about because I'm worth it; because I have the right to take up space. 
+_ I have learned to keep my personal development at the forefront of my mind. I have learned to be real with myself. I can't allow myself to get lazy and accept the easy option. My three years as a teacher have shaped me into a braver, bolder, more confident young woman. I'm no longer embarrassed to take up space or to have a voice and an opinion. I have given myself permission to pursue the programming career I am passionate about because I'm worth it._
