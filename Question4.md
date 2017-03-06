@@ -18,11 +18,13 @@ That is not to say that there aren't some parts of teaching that I truly enjoy. 
 * Planning and delivering instruction  
 * Evaluation of learning  
 * Supervision of student projects and overall learning 
+
 * Organization  
 * Systems Design  
 * Rituals & Routines  
 * Recordkeeping  
 * Data Management and Security 
+
 * Communication  
 * Relationship building  
 * Cross-curricular collaboration  
