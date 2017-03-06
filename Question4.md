@@ -17,7 +17,7 @@ That is not to say that there aren't some parts of teaching that I truly enjoy. 
 >My three years as a teacher have shaped me into a braver, bolder, more confident young woman who understands herself. I'm no longer embarrassed to take up space and to have a voice and an opinion. I have learned to keep my personal development at the forefront of my mind. I can't allow myself to get lazy and accept the easy option. I have learned to be real with myself. I have given myself permission to pursue a career I am passionate about because I'm worth it; because I have the right to take up space.  
 
 
-
+![kinniegartin](http://i44.photobucket.com/albums/f16/Larisa_Carter/Kindergarten_pic_zpsyieiccmq.png)
 
 
 
