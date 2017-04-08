@@ -1,8 +1,8 @@
-##_Question 3_  
+## _Question 3_  
 #### After reading [Ada's Vision, Mission and Inclusivity Statement](http://adadevelopersacademy.org/program), how will you contribute to Ada's vision for an inclusive and diverse community?  
 ---  
 
-##Vision  
+## Vision  
 > _"Ada Developers Academy is dedicated to increase the number of underrepresented skilled software developers while redefining and reinventing the way we prepare individuals to be successful in information technology careers. With an intensive, inclusive, and positive learning community, we aim to directly address both the information technology labor shortage in Washington and the lack of diverse experience, thought, and background in the software industry."_ 
 
 I am excited to have the opportunity to be involved with an organization that values underrepresented talent. 
@@ -32,19 +32,19 @@ I think about:
 * learning new things
 * making the world a better place
 
-##Mission
+## Mission
 > _"Ada Developers Academy’s mission is to diversify Tech by providing women and people of non-binary gender the skills, experience, and community support to become professional software developers who contribute to changing the world with software."_
 
 I understand how to integrate skill and theory with hands-on experience. And I know how to seek out the resources I need in order to accomplish anything I set my mind to. I want to learn with others and help to _"change the world with software"_. 
 
 
-##Program
+## Program
 > _"Our highly immersive, tuition-free program combines classroom training and a paid, learning internship to teach women both how to write code (practical tools and computer science fundamentals) and how to be a software developer (leadership, inclusivity, and career). Our core values are building and contributing to a supportive community; creating and advocating for inclusivity; and teaching and practicing lifelong learning, all within Tech."_
 
 I have the ability, experiences, grit, and determination to succeed at the Ada Developers Academy. I thrive in situations where I have the opportunity to learn and apply new strategies and technologies to new challenges. From the moment I read about the Academy, I knew I had to apply. I know I have the passion, dedication, and grit to become a member of the Tech community in Seattle. 
 
 
-##Inclusivity
+## Inclusivity
 
 > _"Ada Developers Academy is designed to be an inclusive, positive learning environment for all students, regardless of sexual orientation, disability, physical appearance, education, age, race, or religion. All women (cis and trans*) and people with non-binary gender who feel a part of women's community are encouraged to apply."_ 
 
