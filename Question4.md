@@ -18,7 +18,7 @@ That is not to say that there aren't some parts of teaching that I truly enjoy. 
 
 >**10+1 Applicable skills I learned as a Middle School Teacher**
 
->1. Planning & delivering instruction
+1. Planning & delivering instruction
 2. Supervision of student projects and overall learning
 3. Evaluation of learning
 4. Organization    
